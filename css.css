@@ -180,7 +180,6 @@ p {
     height: 350px;
     object-fit: cover;
     border: 6px solid white;
-    border-radius: 50%;
     box-shadow: 5px 8px 20px #c5d1cc;
 }
 
