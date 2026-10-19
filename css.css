@@ -519,7 +519,8 @@ p {
 }
 
 /* MESSAGE BOX */
-.Contact-Form textarea {
+.Contact-Form Textarea {
+    margin-top: 10px;
     height: 150px;
     border: 1px solid #aabaca;
     border-radius: 8px;
